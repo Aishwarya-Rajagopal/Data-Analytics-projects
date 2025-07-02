@@ -1,0 +1,84 @@
+# 📊 Finance KPI Performance Dashboard | Power BI Project
+
+A comprehensive Power BI dashboard to track and analyze monthly sales performance, variance against targets, and team-level KPIs — featuring rich visual storytelling, dynamic DAX measures, and actionable insights.
+
+## 🚀 Project Overview
+
+**Objective:**  
+To build a dynamic and insightful Power BI dashboard that helps track financial KPIs and team performance over time, enabling decision-makers to monitor trends and spot deviations quickly.
+
+
+## 🧠 Problem Solved
+
+Sales managers needed a clear, visual way to:
+- Track monthly actual vs. target sales
+- Identify which salespersons and teams performed best or underperformed
+- Spot month-over-month sales trends and YTD/MTD comparisons
+- Automatically narrate key trends from the visuals
+
+
+## 🔧 Tools & Skills Applied
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Data Cleaning & Modeling**
+- **Calculated Columns & Measures**
+- **Dynamic Visuals and Narratives**
+- **KPI Cards, Trend Charts, and Sparklines**
+- **STAR Methodology for Storytelling**
+
+
+## 📈 Key Features & Steps
+
+### 🔹 Data Cleaning
+- Renamed and structured columns 
+- Changed data types for clear visualization
+- Unpivoted monthly data for flexible analysis
+- Created derived columns for calendar dates
+
+### 🔹 Data Modeling
+- Built relationships using common columns (e.g., date keys, salesperson/team)
+
+### 🔹 DAX Calculations
+- `Total Sales Actual`, `Total Sales Target`, `Variance`, `Variance %`
+- Year-to-Date (YTD), Month-to-Date (MTD), and dynamic formatting of chart title
+- `Months Target Reached`, `Target Status` flags (emoji-based indicators)
+
+### 🔹 Dashboard Design
+- KPI Cards
+- Target Status win/loss chart
+- Monthly Actual vs Target column chart
+- Conditional formatting: sparklines, bars
+- Dynamic column chart title
+- Team-wise slicer
+- Auto-generated narrative (Data Insights panel)
+
+
+## 💼  Summary - using STAR Method
+
+**Situation:**  
+The sales leadership lacked a streamlined view to measure monthly KPI goals and team-level variance in performance.
+
+**Task:**  
+Design an interactive Power BI dashboard to highlight underperformance, top performers, and month-wise sales trends against targets.
+
+**Action:**  
+- Cleaned and restructured the data
+- Modeled tables with meaningful relationships
+- Created reusable and dynamic DAX measures
+- Designed KPI visuals and embedded data narratives for insight delivery
+
+** Result:**  
+Delivered a sleek and professional dashboard that:
+- Tracked KPIs over 14 months
+- Highlighted that only 2 months met targets (overall)
+- Identified Kaine Padly as top performer (9% above target) (overall)
+- Revealed a sharp drop in total sales post-November 2023 (−24.87% in 3 months)
+
+
+## 👀 Preview
+
+![Dashboard Preview](link-to-dashboard-screenshot-or-gif)
+
+
+
