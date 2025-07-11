@@ -1,1 +1,45 @@
+ 🏥 Healthcare Analytics Project
+
+**Author:** Aishwarya Rajagopal  
+**Tools Used:** SQL Server, Power BI, Excel  
+**Project Type:** End-to-end Data Analytics Project  
+**Focus Areas:** Cost Analysis · Risk Identification · Interactive Dashboards
+
+📊 Project Summary
+
+This project analyzes patient encounters, procedure costs, and payer coverage data to uncover high-cost healthcare patterns and financial risks.
+It is designed to assist healthcare organizations in making **data-driven decisions** around care management, financial planning,resouce allocation and operational optimization.
+
+ 💡 This project demonstrates real-world data analytics, dashboarding, and storytelling—aligned with modern healthcare BI standards.
+
+🧠 Key Objectives
+
+- Identify high-risk patients driving repeated high-cost encounters
+- Analyze uncovered costs by payer and diagnosis
+- Correlate procedure trends with diagnoses over time
+- Visualize cost distribution across encounter types and regions
+- Provide real-time, interactive dashboards for stakeholders
+
+🛠️ Technologies & Skills Used
+
+- **SQL Server**: Modular data modeling using views, dynamic thresholds, and aggregate cost analysis
+- **Power BI**: Interactive multi-page dashboards, DAX measures, navigation,filters, slicers
+- **Excel**: Data inspection, formatting for import
+
+🚀 Industry Best Practices Implemented
+
+- **Dynamic benchmarking** using class-based cost averages instead of static thresholds
+- **Role-based dashboard design** (Finance, Clinical, Operational stakeholders)
+- **Reusable SQL views** to separate business logic from presentation layer
+- **Interactive UX** using slicers, toggles, drill-throughs, and filters
+- **KPI-centric storytelling** with clean, blue-themed professional layout
+
+📁 Outcome
+
+A robust, scalable analytics framework that empowers healthcare leaders to:
+- Reduce uncovered cost burden and prevent financial risk overload
+- Target high-utilization patients with proactive care
+- Optimize resource allocation across organizations and departments
+
+
 
